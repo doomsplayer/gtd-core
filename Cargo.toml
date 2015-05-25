@@ -1,0 +1,4 @@
+[package]
+name = "gtd-core"
+version = "0.1.0"
+authors = ["Young Wu <doomsplayer@gmail.com>"]
